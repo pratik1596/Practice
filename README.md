@@ -1,13 +1,8 @@
-Alt-Practice
-================
-*Pratik*
+#Website
+==========
 
-__Pratik__
+#Page 1 - Origin of Internet
 
-1. Names
-2. Numbers
-. .* Names
-
-. . .Pratik
-
-. . .Rachana
+    1. Page Title
+    2. Description
+    3. Keywords
