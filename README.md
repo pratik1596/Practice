@@ -1,5 +1,4 @@
 # Website
-=====================================================
 
 ## Page 1 - Origin of Internet
     1. Page Title
