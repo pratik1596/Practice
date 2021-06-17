@@ -7,7 +7,7 @@ __Pratik__
 1. Names
 2. Numbers
 
-. . **Names**
+. .Names
 
 . . . . . Pratik
 
