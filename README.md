@@ -4,8 +4,8 @@ Alt-Practice
 
 __Pratik__
 
-1. ames
-2. umbers
+1. Names
+2. Numbers
 
 * **Names**
 1. Pratik
