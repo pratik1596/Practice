@@ -7,8 +7,8 @@ __Pratik__
 1. Names
 2. Numbers
 
-..* **Names**
+. .* **Names**
 
-...1. Pratik
+. . .1. Pratik
 
-...2. Rachana
+. . .2. Rachana
