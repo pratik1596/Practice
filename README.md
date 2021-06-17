@@ -1,2 +1,2 @@
-# Alt-Practice
+Alt-Practice
 ================
