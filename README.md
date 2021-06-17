@@ -9,6 +9,6 @@ __Pratik__
 
 . .* **Names**
 
-. . .1. Pratik
+. . . . . 1. Pratik
 
-. . .2. Rachana
+. . . . . 2. Rachana
