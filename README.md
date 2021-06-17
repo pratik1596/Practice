@@ -1,4 +1,4 @@
 Alt-Practice
 ================
 **Pratik**
-__Pratik__
+**__Pratik__**
